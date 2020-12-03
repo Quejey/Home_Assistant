@@ -1,4 +1,21 @@
-body{
-	background-color: grey;
+.switch{
+	border: solid 1px #000000;
+	width:85px;
+	padding: 1%;
+	padding-top: 0;
+	border-radius: 10px;
+	background-color: #738296;
+
+
 }
 
+h2{
+	margin-left: 5px;
+}
+input[type="submit"]{
+	background-color: grey;
+	color: white;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px;
+	cursor: pointer;
+}
